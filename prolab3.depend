@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1577630156 source:e:\prolabsunum\prolab3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1577630156 source:e:\prolab3son\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1577630156 source:e:\prolab3son\prolab3_cbs 180202024-180202025\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

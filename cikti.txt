@@ -1,0 +1,484 @@
+Plaka: 1
+Isim: Adana -> 31 -> 33 -> 38 -> 46 -> 51 -> 80 
+Bolge: AK
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 2
+Isim: Adiyaman -> 21 -> 27 -> 44 -> 46 -> 63 
+Bolge: GA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 3
+Isim: Afyonkarahisar -> 15 -> 20 -> 26 -> 32 -> 42 -> 43 -> 64 
+Bolge: EG
+Komsu Sayisi: 7
+| |
+| |
+Plaka: 4
+Isim: Agri -> 13 -> 25 -> 36 -> 49 -> 65 -> 76 
+Bolge: DA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 5
+Isim: Amasya -> 19 -> 55 -> 60 -> 66 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 6
+Isim: Ankara -> 14 -> 18 -> 26 -> 40 -> 42 -> 68 -> 71 
+Bolge: IA
+Komsu Sayisi: 7
+| |
+| |
+Plaka: 7
+Isim: Antalya -> 15 -> 32 -> 33 -> 42 -> 48 -> 70 
+Bolge: AK
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 8
+Isim: Artvin -> 25 -> 53 -> 75 
+Bolge: KA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 9
+Isim: Aydin -> 20 -> 35 -> 45 -> 48 
+Bolge: EG
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 10
+Isim: Balikesir -> 16 -> 17 -> 35 -> 43 -> 45 
+Bolge: MA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 11
+Isim: Bilecik -> 14 -> 16 -> 26 -> 43 -> 54 
+Bolge: MA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 12
+Isim: Bingol -> 21 -> 23 -> 24 -> 25 -> 49 -> 62 
+Bolge: DA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 13
+Isim: Bitlis -> 4 -> 49 -> 56 -> 65 -> 72 
+Bolge: DA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 14
+Isim: Bolu -> 6 -> 11 -> 18 -> 26 -> 54 -> 67 -> 78 -> 81 
+Bolge: KA
+Komsu Sayisi: 8
+| |
+| |
+Plaka: 15
+Isim: Burdur -> 3 -> 7 -> 20 -> 32 -> 48 
+Bolge: AK
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 16
+Isim: Bursa -> 10 -> 11 -> 41 -> 43 -> 54 -> 77 
+Bolge: MA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 17
+Isim: Canakkale -> 10 -> 22 -> 59 
+Bolge: MA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 18
+Isim: Cankiri -> 6 -> 14 -> 19 -> 37 -> 71 -> 78 
+Bolge: IA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 19
+Isim: Corum -> 5 -> 18 -> 37 -> 55 -> 57 -> 66 -> 71 
+Bolge: KA
+Komsu Sayisi: 7
+| |
+| |
+Plaka: 20
+Isim: Denizli -> 3 -> 9 -> 15 -> 45 -> 48 -> 64 
+Bolge: EG
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 21
+Isim: Diyarbakir -> 2 -> 12 -> 23 -> 44 -> 47 -> 49 -> 63 -> 72 
+Bolge: GA
+Komsu Sayisi: 8
+| |
+| |
+Plaka: 22
+Isim: Edirne -> 17 -> 59 -> 71 
+Bolge: MA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 23
+Isim: Elazig -> 12 -> 21 -> 24 -> 44 -> 62 
+Bolge: DA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 24
+Isim: Erzincan -> 12 -> 23 -> 25 -> 28 -> 29 -> 44 -> 58 -> 62 -> 69 
+Bolge: DA
+Komsu Sayisi: 9
+| |
+| |
+Plaka: 25
+Isim: Erzurum -> 4 -> 8 -> 12 -> 24 -> 36 -> 49 -> 53 -> 69 -> 75 
+Bolge: DA
+Komsu Sayisi: 9
+| |
+| |
+Plaka: 26
+Isim: Eskisehir -> 3 -> 6 -> 11 -> 14 -> 42 -> 43 
+Bolge: IA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 27
+Isim: Gaziantep -> 2 -> 31 -> 46 -> 63 -> 79 -> 80 
+Bolge: GA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 28
+Isim: Giresun -> 24 -> 29 -> 52 -> 58 -> 61 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 29
+Isim: Gumushane -> 24 -> 28 -> 61 -> 69 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 30
+Isim: Hakkari -> 65 -> 73 
+Bolge: DA
+Komsu Sayisi: 2
+| |
+| |
+Plaka: 31
+Isim: Hatay -> 1 -> 27 -> 80 
+Bolge: AK
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 32
+Isim: Isparta -> 3 -> 7 -> 15 -> 42 
+Bolge: AK
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 33
+Isim: Mersin -> 1 -> 7 -> 42 -> 51 -> 70 
+Bolge: AK
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 34
+Isim: Istanbul -> 41 -> 59 
+Bolge: MA
+Komsu Sayisi: 2
+| |
+| |
+Plaka: 35
+Isim: Izmir -> 9 -> 10 -> 45 
+Bolge: EG
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 36
+Isim: Kars -> 4 -> 25 -> 75 -> 76 
+Bolge: DA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 37
+Isim: Kastamonu -> 18 -> 19 -> 57 -> 74 -> 78 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 38
+Isim: Kayseri -> 1 -> 46 -> 50 -> 51 -> 58 -> 66 
+Bolge: IA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 39
+Isim: Kirklareli -> 22 -> 59 
+Bolge: MA
+Komsu Sayisi: 2
+| |
+| |
+Plaka: 40
+Isim: Kirsehir -> 6 -> 50 -> 66 -> 68 -> 71 
+Bolge: IA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 41
+Isim: Kocaeli -> 16 -> 34 -> 54 -> 77 
+Bolge: MA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 42
+Isim: Konya -> 3 -> 6 -> 7 -> 26 -> 32 -> 33 -> 51 -> 68 -> 70 
+Bolge: IA
+Komsu Sayisi: 9
+| |
+| |
+Plaka: 43
+Isim: Kutahya -> 3 -> 10 -> 11 -> 16 -> 26 -> 45 -> 64 
+Bolge: EG
+Komsu Sayisi: 7
+| |
+| |
+Plaka: 44
+Isim: Malatya -> 2 -> 21 -> 23 -> 24 -> 46 -> 58 
+Bolge: DA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 45
+Isim: Manisa -> 9 -> 10 -> 20 -> 35 -> 43 -> 64 
+Bolge: EG
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 46
+Isim: Kahramanmaras -> 1 -> 2 -> 27 -> 38 -> 44 -> 58 -> 80 
+Bolge: AK
+Komsu Sayisi: 7
+| |
+| |
+Plaka: 47
+Isim: Mardin -> 21 -> 56 -> 63 -> 72 -> 73 
+Bolge: GA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 48
+Isim: Mugla -> 7 -> 9 -> 15 -> 20 
+Bolge: EG
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 49
+Isim: Mus -> 4 -> 12 -> 13 -> 21 -> 25 -> 72 
+Bolge: DA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 50
+Isim: Nevsehir -> 38 -> 40 -> 51 -> 66 -> 68 
+Bolge: IA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 51
+Isim: Nigde -> 1 -> 33 -> 38 -> 42 -> 50 -> 68 
+Bolge: IA
+Komsu Sayisi: 6
+| |
+| |
+Plaka: 52
+Isim: Ordu -> 28 -> 55 -> 58 -> 60 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 53
+Isim: Rize -> 8 -> 25 -> 61 -> 69 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 54
+Isim: Sakarya -> 11 -> 14 -> 16 -> 41 -> 81 
+Bolge: MA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 55
+Isim: Samsun -> 5 -> 19 -> 52 -> 57 -> 60 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 56
+Isim: Siirt -> 13 -> 47 -> 65 -> 72 -> 73 
+Bolge: GA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 57
+Isim: Sinop -> 19 -> 37 -> 55 
+Bolge: KA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 58
+Isim: Sivas -> 24 -> 28 -> 38 -> 44 -> 46 -> 52 -> 60 -> 66 
+Bolge: IA
+Komsu Sayisi: 8
+| |
+| |
+Plaka: 59
+Isim: Tekirdag -> 17 -> 22 -> 34 -> 39 
+Bolge: MA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 60
+Isim: Tokat -> 5 -> 52 -> 55 -> 58 -> 66 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 61
+Isim: Trabzon -> 28 -> 29 -> 53 -> 69 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 62
+Isim: Tunceli -> 12 -> 23 -> 24 
+Bolge: DA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 63
+Isim: Sanliurfa -> 2 -> 21 -> 27 -> 47 
+Bolge: GA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 64
+Isim: Usak -> 3 -> 20 -> 43 -> 45 
+Bolge: EG
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 65
+Isim: Van -> 4 -> 13 -> 30 -> 56 -> 73 
+Bolge: DA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 66
+Isim: Yozgat -> 5 -> 19 -> 38 -> 40 -> 50 -> 58 -> 60 -> 71 
+Bolge: IA
+Komsu Sayisi: 8
+| |
+| |
+Plaka: 67
+Isim: Zonguldak -> 14 -> 74 -> 78 -> 81 
+Bolge: KA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 68
+Isim: Aksaray -> 6 -> 40 -> 42 -> 50 -> 51 
+Bolge: IA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 69
+Isim: Bayburt -> 24 -> 25 -> 29 -> 53 -> 61 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 70
+Isim: Karaman -> 7 -> 33 -> 42 
+Bolge: IA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 71
+Isim: Kirikkale -> 6 -> 18 -> 19 -> 40 -> 66 
+Bolge: IA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 72
+Isim: Batman -> 13 -> 21 -> 47 -> 49 -> 56 
+Bolge: GA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 73
+Isim: Sirnak -> 30 -> 47 -> 56 -> 65 
+Bolge: GA
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 74
+Isim: Bartin -> 37 -> 67 -> 78 
+Bolge: KA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 75
+Isim: Ardahan -> 8 -> 25 -> 36 
+Bolge: DA
+Komsu Sayisi: 3
+| |
+| |
+Plaka: 76
+Isim: Igdir -> 4 -> 36 
+Bolge: DA
+Komsu Sayisi: 2
+| |
+| |
+Plaka: 77
+Isim: Yalova -> 16 -> 41 
+Bolge: MA
+Komsu Sayisi: 2
+| |
+| |
+Plaka: 78
+Isim: Karabuk -> 14 -> 18 -> 37 -> 67 -> 74 
+Bolge: KA
+Komsu Sayisi: 5
+| |
+| |
+Plaka: 79
+Isim: Kilis -> 27 
+Bolge: GA
+Komsu Sayisi: 1
+| |
+| |
+Plaka: 80
+Isim: Osmaniye -> 1 -> 27 -> 31 -> 46 
+Bolge: AK
+Komsu Sayisi: 4
+| |
+| |
+Plaka: 81
+Isim: Duzce -> 14 -> 54 -> 67 
+Bolge: KA
+Komsu Sayisi: 3
